@@ -3,7 +3,7 @@
     "version": "0.0.1",
     "description": "DeepOnion client",
     "keywords": ["deeponion"],
-    "repository": "git://github.com/whokn0ws/node-deeponion.git",
+    "repository": "git://github.com/Wh0Kn0ws/node-deeponion.git",
     "author": "WhoKn0ws",
     "main": "lib/deeponion.js",
     "engines": { "node": ">= 0.4.0" },
